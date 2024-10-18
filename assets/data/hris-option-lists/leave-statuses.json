@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "For Review",
+    "hex_code": "#34ace0"
+  },
+  {
+    "id": 2,
+    "name": "Approved",
+    "hex_code": "#C4E538"
+  },
+  {
+    "id": 3,
+    "name": "Declined",
+    "hex_code": "#EA2027"
+  }
+]

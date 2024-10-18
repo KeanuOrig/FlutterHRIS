@@ -1,0 +1,446 @@
+[
+  {
+    "id": 1,
+    "name": "Others"
+  },
+  {
+    "id": 2,
+    "name": "Roman Catholic"
+  },
+  {
+    "id": 3,
+    "name": "Islam"
+  },
+  {
+    "id": 4,
+    "name": "Evangelicals"
+  },
+  {
+    "id": 5,
+    "name": "Iglesia Ni Cristo"
+  },
+  {
+    "id": 6,
+    "name": "Non-Roman Catholic and Protestant (NCCP)"
+  },
+  {
+    "id": 7,
+    "name": "Aglipay"
+  },
+  {
+    "id": 8,
+    "name": "Seventh-day Adventist"
+  },
+  {
+    "id": 9,
+    "name": "Baptist"
+  },
+  {
+    "id": 10,
+    "name": "Jehovah's Witnesses"
+  },
+  {
+    "id": 11,
+    "name": "Jesus Is Lord Church"
+  },
+  {
+    "id": 12,
+    "name": "Buddhist"
+  },
+  {
+    "id": 13,
+    "name": "Hinduism"
+  },
+  {
+    "id": 14,
+    "name": "Sikhism"
+  },
+  {
+    "id": 15,
+    "name": "Other Baptists"
+  },
+  {
+    "id": 16,
+    "name": "Tribal Religions"
+  },
+  {
+    "id": 17,
+    "name": "Other Methodists"
+  },
+  {
+    "id": 18,
+    "name": "Church of Christ"
+  },
+  {
+    "id": 19,
+    "name": "Church of God"
+  },
+  {
+    "id": 20,
+    "name": "Assemblies of God"
+  },
+  {
+    "id": 21,
+    "name": "Church of Jesus Christ"
+  },
+  {
+    "id": 22,
+    "name": "Church of the Nazarene"
+  },
+  {
+    "id": 23,
+    "name": "Door of Faith"
+  },
+  {
+    "id": 24,
+    "name": "Free Methodists"
+  },
+  {
+    "id": 25,
+    "name": "None"
+  },
+  {
+    "id": 26,
+    "name": "Presbyterian"
+  },
+  {
+    "id": 27,
+    "name": "Pentecostal"
+  },
+  {
+    "id": 28,
+    "name": "Born Again"
+  },
+  {
+    "id": 29,
+    "name": "Alliance of Bible Christian Communities of the Philippines"
+  },
+  {
+    "id": 30,
+    "name": "Association of Baptist Churches in Luzon, Visayas, and Mindanao"
+  },
+  {
+    "id": 31,
+    "name": "Association of Fundamental Baptist Churches in the Philippines"
+  },
+  {
+    "id": 32,
+    "name": "Baptist Conference of the Philippines"
+  },
+  {
+    "id": 33,
+    "name": "Bible Baptist Church"
+  },
+  {
+    "id": 34,
+    "name": "Bread of Life Ministries"
+  },
+  {
+    "id": 35,
+    "name": "Cathedral of Praise, Incorporated"
+  },
+  {
+    "id": 36,
+    "name": "Charismatic Full Gospel Ministries"
+  },
+  {
+    "id": 37,
+    "name": "Christ the Living Stone Fellowship"
+  },
+  {
+    "id": 38,
+    "name": "Christian and Missionary Alliance Church of the Philippines"
+  },
+  {
+    "id": 39,
+    "name": "Christian Missions in the Philippines"
+  },
+  {
+    "id": 40,
+    "name": "Church of God World Mission in the Philippines"
+  },
+  {
+    "id": 41,
+    "name": "Church of Jesus Christ of the Latter Day Saints"
+  },
+  {
+    "id": 42,
+    "name": "Christian Reformed Church in the Philippines, Incorporated"
+  },
+  {
+    "id": 43,
+    "name": "Conservative of the Philippine Baptist Church"
+  },
+  {
+    "id": 44,
+    "name": "Convention of the Philippine Baptist Church"
+  },
+  {
+    "id": 45,
+    "name": "Crusaders of the Divine Church of Christ, Incorporated"
+  },
+  {
+    "id": 46,
+    "name": "Evangelical Christian Outreach Foundation"
+  },
+  {
+    "id": 47,
+    "name": "Evangelical Free Church of the Philippines"
+  },
+  {
+    "id": 48,
+    "name": "Evangelical Presbyterian Church"
+  },
+  {
+    "id": 49,
+    "name": "Faith Tabernacle Church (Living Rock Ministries)"
+  },
+  {
+    "id": 50,
+    "name": "Filipino Assemblies of the First Born, Incorporated"
+  },
+  {
+    "id": 51,
+    "name": "Foursquare Gospel Church in the Philippines"
+  },
+  {
+    "id": 52,
+    "name": "Free Believers in Christ Fellowship"
+  },
+  {
+    "id": 53,
+    "name": "Free Methodist Church"
+  },
+  {
+    "id": 54,
+    "name": "Free Mission in the Philippines, Incorporated"
+  },
+  {
+    "id": 55,
+    "name": "General Baptist Churches of the Philippines"
+  },
+  {
+    "id": 56,
+    "name": "Good News Christian Churches"
+  },
+  {
+    "id": 57,
+    "name": "Higher Ground Baptist Mission"
+  },
+  {
+    "id": 58,
+    "name": "IEMELIF Reform Movement"
+  },
+  {
+    "id": 59,
+    "name": "Iglesia Evangelica Unida de Cristo"
+  },
+  {
+    "id": 60,
+    "name": "Iglesia Evangelista Methodista en Las Islas Filipinas (IEMELIF)"
+  },
+  {
+    "id": 61,
+    "name": "Iglesia Filipina Independiente"
+  },
+  {
+    "id": 62,
+    "name": "Iglesia sa Dios Espiritu Santo, Incorporated"
+  },
+  {
+    "id": 63,
+    "name": "Independent Baptist Churches of the Philippines"
+  },
+  {
+    "id": 64,
+    "name": "Independent Baptist Missionary Fellowship"
+  },
+  {
+    "id": 65,
+    "name": "International One Way Outreach"
+  },
+  {
+    "id": 66,
+    "name": "Jesus Christ Saves Global Outreach"
+  },
+  {
+    "id": 67,
+    "name": "Jesus is Alive Community, Incorporated"
+  },
+  {
+    "id": 68,
+    "name": "Jesus Reigns Ministries"
+  },
+  {
+    "id": 69,
+    "name": "Love of Christ International Ministries"
+  },
+  {
+    "id": 70,
+    "name": "Lutheran Church of the Philippines"
+  },
+  {
+    "id": 71,
+    "name": "Miracle Life Fellowship International"
+  },
+  {
+    "id": 72,
+    "name": "Miracle Revival Church of the Philippines"
+  },
+  {
+    "id": 73,
+    "name": "Missionary Baptist Churches of the Philippines"
+  },
+  {
+    "id": 74,
+    "name": "Pentecostal Church of God Asia Mission"
+  },
+  {
+    "id": 75,
+    "name": "Philippine Benevolent Missionaries Association"
+  },
+  {
+    "id": 76,
+    "name": "Philippine Ecumenical Christian Church"
+  },
+  {
+    "id": 77,
+    "name": "Philippine Episcopal Church"
+  },
+  {
+    "id": 78,
+    "name": "Philippine Evangelical Mission"
+  },
+  {
+    "id": 79,
+    "name": "Philippine General Council of the Assemblies of God"
+  },
+  {
+    "id": 80,
+    "name": "Philippine Good News Ministries"
+  },
+  {
+    "id": 81,
+    "name": "Philippine Grace Gospel"
+  },
+  {
+    "id": 82,
+    "name": "Philippine Independent Catholic Church"
+  },
+  {
+    "id": 83,
+    "name": "Philippine Missionary Fellowship"
+  },
+  {
+    "id": 84,
+    "name": "Philippine Pentecostal Holiness Church"
+  },
+  {
+    "id": 85,
+    "name": "Potter's House Christian Center"
+  },
+  {
+    "id": 86,
+    "name": "Presbyterian Church in the Philippines"
+  },
+  {
+    "id": 87,
+    "name": "Roman Catholic, including Catholic Charismatic"
+  },
+  {
+    "id": 88,
+    "name": "Salvation Army, Philippines"
+  },
+  {
+    "id": 89,
+    "name": "Southern Baptist Church"
+  },
+  {
+    "id": 90,
+    "name": "Take the Nation for Jesus Global Ministries (Corpus Christi)"
+  },
+  {
+    "id": 91,
+    "name": "Things to Come"
+  },
+  {
+    "id": 92,
+    "name": "UNIDA Evangelical Church"
+  },
+  {
+    "id": 93,
+    "name": "United Church of Christ in the Philippines"
+  },
+  {
+    "id": 94,
+    "name": "United Evangelical Church of the Philippines (Chinese)"
+  },
+  {
+    "id": 95,
+    "name": "Union Espiritista Cristiana de Filipinas, Incorporated"
+  },
+  {
+    "id": 96,
+    "name": "United Methodists Church"
+  },
+  {
+    "id": 97,
+    "name": "United Pentecostal Church (Philippines), Incorporated"
+  },
+  {
+    "id": 98,
+    "name": "Universal Pentecostal Church"
+  },
+  {
+    "id": 99,
+    "name": "Victory Chapel Christian Fellowship"
+  },
+  {
+    "id": 100,
+    "name": "Watch Tower Bible and Tract Society of the Philippines, Incorporated (Jehovah's Witnesses)"
+  },
+  {
+    "id": 101,
+    "name": "Way of Salvation"
+  },
+  {
+    "id": 102,
+    "name": "Way of Salvation Church Incorporated"
+  },
+  {
+    "id": 103,
+    "name": "Wesleyan Church"
+  },
+  {
+    "id": 104,
+    "name": "Word for the World"
+  },
+  {
+    "id": 105,
+    "name": "Word International Ministries, Incorporated"
+  },
+  {
+    "id": 106,
+    "name": "World Missionary Evangelism"
+  },
+  {
+    "id": 107,
+    "name": "Worldwide Church of God"
+  },
+  {
+    "id": 108,
+    "name": "Zion Christian Community Church"
+  },
+  {
+    "id": 109,
+    "name": "Other Evangelical Churches"
+  },
+  {
+    "id": 110,
+    "name": "Other Protestants"
+  },
+  {
+    "id": 111,
+    "name": "Other religious affiliations"
+  }
+]

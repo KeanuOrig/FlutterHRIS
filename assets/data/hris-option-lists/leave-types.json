@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Annual Leave"
+  },
+  {
+    "id": 2,
+    "name": "Bereavement Leave"
+  },
+  {
+    "id": 3,
+    "name": "Compensatory Leave"
+  },
+  {
+    "id": 4,
+    "name": "Emergency Leave"
+  },
+  {
+    "id": 5,
+    "name": "Jury Leave"
+  },
+  {
+    "id": 6,
+    "name": "Maternity Leave"
+  },
+  {
+    "id": 7,
+    "name": "Military Leave"
+  },
+  {
+    "id": 8,
+    "name": "Parental Leave"
+  },
+  {
+    "id": 9,
+    "name": "Paternity Leave"
+  },
+  {
+    "id": 10,
+    "name": "Personal Leave"
+  },
+  {
+    "id": 11,
+    "name": "Holiday Leave"
+  },
+  {
+    "id": 12,
+    "name": "Sick Leave"
+  },
+  {
+    "id": 13,
+    "name": "Unpaid Leave"
+  },
+  {
+    "id": 14,
+    "name": "Vacation Leave"
+  }
+]
